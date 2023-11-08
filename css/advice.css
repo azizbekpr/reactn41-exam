@@ -1,0 +1,88 @@
+.hechkim h2{
+    color: var(--text-color, #252B42);
+        font-family: Montserrat;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 57px;
+        letter-spacing: 0.2px;
+        width: 163px;
+        height: 57px;
+        position: relative;
+        bottom: 800px;
+        left:619px;
+}
+.hechkim p{
+    color: var(--second-text-color, #737373);
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 20px;
+        letter-spacing: 0.2px;
+        width: 470px;
+        height: 40px;
+        position: relative;
+        bottom: 765px;
+        left: 470px;
+        
+}
+.samsung {
+    display: flex;
+    justify-content: space-between;
+    width: 232px;
+    padding: 30px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.samsung-1 {
+    position: relative;
+    bottom: 700px;
+    left: 100px;
+    
+}
+
+.samsung-2 {
+    position: relative;
+    bottom: 944px;
+    left: 400px;
+    
+    
+}
+
+.samsung-3 {
+    position: relative;
+    bottom: 1167px;
+    left: 700px;
+}
+
+.samsung-4 {
+    position: relative;
+    bottom: 1410px;
+    left: 1000px;
+
+}
+
+.samsung h5 {
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+
+}
+
+.samsung p {
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}

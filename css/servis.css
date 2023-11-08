@@ -1,0 +1,190 @@
+.pic {
+    flex-shrink: 0;
+    position: relative;
+    top: 300px;
+    left: 290px;
+    width: 597px;
+    height: 442px;
+    flex-shrink: 0;
+    background: url(../images/Screenshot\ 2023-11-08\ 014228.png) no-repeat;
+    position: relative;
+
+}
+
+
+.pic img {
+    position: relative;
+    bottom: 1100px;
+    left: 120px;
+}
+
+.explain {
+    position: relative;
+    top: 600px;
+    left: 800px;
+}
+
+.explain h2 {
+    width: 333px;
+    height: 114px;
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+
+}
+
+.explain p {
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    width: 330px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
+
+.part1 {
+    position: relative;
+    bottom: 180px;
+    left: 800px;
+}
+
+.part2 {
+    position: relative;
+    bottom: 160px;
+    left: 800px;
+}
+
+.part1 h5 {
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+}
+
+.part1 h6 {
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.part2 h5 {
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+}
+
+.part2 h6 {
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+
+.clients {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 20px;
+    left: 100px;
+
+}
+
+.client2 {
+    position: relative;
+    left: 70px;
+}
+
+.client3 {
+    position: relative;
+    left: 120px;
+    bottom: 25px;
+}
+
+.client4 {
+    position: relative;
+    left: 150px;
+}
+
+.client5 {
+    position: relative;
+    left: 180px;
+}
+
+.client6 {
+    position: relative;
+    left: 250px;
+}
+
+.gmail {
+    display: flex;
+    width: 100vw;
+    padding: 0px 120px;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 2px;
+    background: var(--secondary-color-2, #16697A);
+}
+
+.gmail h3 {
+    width: 258px;
+    height: 64px;
+    color: var(--light-text-color, #FFF);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    position: relative;
+    top: 30px;
+}
+
+.gmail input {
+    width: 280px;
+    height: 60px;
+    position: relative;
+    left: 850px;
+    bottom: 10px;
+}
+
+.placeholder {
+    position: relative;
+    left: 30px;
+}
+
+.subscribe {
+    display: flex;
+    width: 117px;
+    height: 60px;
+    padding: 15px 22.5px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid #E6E6E6;
+    background: var(--primary-color, #FFA62B);
+    position: relative;
+    left: 1130px;
+    bottom: 70px;
+}
